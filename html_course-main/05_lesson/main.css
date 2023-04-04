@@ -8,13 +8,15 @@ body {
 }
 
 a {
-    color: aliceblue;
+    color: #f32222;
 }
 
-a:visited {
-    color: lightgray;
+a:visited{
+    color: #ff1;
 }
-
-a:hover, a:active {
-    color: #eee;
+a:hover {
+    color: white;
+}
+a:active{
+    color:aqua;
 }
